@@ -13,13 +13,16 @@ This repository contains a Colab-ready notebook for a physics-informed solar PV 
 
 ## Dataset
 
+Download:
+https://www.kaggle.com/datasets/cdaclab/unisolar?resource=download
+
 The notebook expects the UNISOLAR/Kaggle files:
 
 - `Solar_Energy_Generation.csv`
 - `Weather_Data_reordered_all.csv`
 - `Solar_Site_Details.csv`
 
-You can upload either the original `archive.zip` or the CSV files directly to Colab.
+Place the required dataset files inside the 'data/' directory before executing the notebook.
 
 ## Transparency note
 
